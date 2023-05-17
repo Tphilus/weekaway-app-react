@@ -9,11 +9,13 @@ const Hero = () => {
         className="w-full h-full object-cover"
       />
       <div className="max-w-[780px] m-auto">
-        <div className="absolute top-[40%] w-full md:-[50%] max-w-[600px] h-full  ">
-          <h1>Find Your Special Trip</h1>
-          <h2>With Weekaway</h2>
+        <div className="absolute top-[40%] w-full md:-[50%] max-w-[600px] h-full flex flex-col text-white ">
+          <h1 className="font-bold text-2xl md:text-3xl">
+            Find Your Special Trip
+          </h1>
+          <h2 className="text-lg italic">With Weekaway</h2>
 
-          <p>
+          <p className="text-base ">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum sit
             sapiente aliquam odio impedit quos minima ut ab doloremque, quasi
             molestiae perferendis aliquid accusamus eveniet. Facere iure neque

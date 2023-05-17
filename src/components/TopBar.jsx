@@ -10,7 +10,7 @@ const TopBar = () => {
           size={30}
           className="text-[var(--primary-dark)] mr-1"
         />
-        <h1 className=" uppercase text-[1rem] font-bold text-gray-700">
+        <h1 className=" uppercase text-base font-bold text-gray-700">
           Weekaway
         </h1>
       </div>
