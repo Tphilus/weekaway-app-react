@@ -8,14 +8,14 @@ const Hero = () => {
         alt="Blue Sea"
         className="w-full h-full object-cover"
       />
-      <div className="max-w-[780px] m-auto">
+      <div className="max-w-[1140px] m-auto">
         <div className="absolute top-[40%] w-full md:-[50%] max-w-[600px] h-full flex flex-col text-white ">
-          <h1 className="font-bold text-2xl md:text-3xl">
+          <h1 className="font-bold text-2xl md:text-5xl">
             Find Your Special Trip
           </h1>
-          <h2 className="text-lg italic">With Weekaway</h2>
+          <h2 className="text-xl md:text-2xl italic mt-2">With Weekaway</h2>
 
-          <p className="text-base ">
+          <p className="text-base mt-2">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum sit
             sapiente aliquam odio impedit quos minima ut ab doloremque, quasi
             molestiae perferendis aliquid accusamus eveniet. Facere iure neque

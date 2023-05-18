@@ -10,7 +10,7 @@ const TopBar = () => {
           size={30}
           className="text-[var(--primary-dark)] mr-1"
         />
-        <h1 className=" uppercase text-base font-bold text-gray-700">
+        <h1 className=" uppercase text-base md:text-2xl font-bold text-gray-700">
           Weekaway
         </h1>
       </div>
@@ -20,14 +20,14 @@ const TopBar = () => {
             size={20}
             className="text-[var(--primary-dark)] mr-1"
           />
-          <p className="text-sm text-gray-700">9AM - 5PM</p>
+          <p className="text-base text-gray-700">9AM - 5PM</p>
         </div>
 
         <div className="hidden md:flex items-center px-6">
           <AiFillPhone size={20} className="text-[var(--primary-dark)] mr-1" />
-          <p className="text-sm text-gray-700">+91 9876543210</p>
+          <p className="text-base text-gray-700">+91 9876543210</p>
         </div>
-        <button className="text-sm">Get a Free Quote</button>
+        <button className="text-sm md:text-base">Get a Free Quote</button>
       </div>
     </div>
   );
