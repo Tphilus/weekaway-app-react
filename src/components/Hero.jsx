@@ -13,7 +13,7 @@ const Hero = () => {
           <h1 className="font-bold text-2xl md:text-5xl">
             Find Your Special Trip
           </h1>
-          <h2 className="text-xl md:text-2xl italic mt-2">With Weekaway</h2>
+          <h2 className="text-xl md:text-3xl italic mt-2">With Weekaway</h2>
 
           <p className="text-base mt-2">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum sit
