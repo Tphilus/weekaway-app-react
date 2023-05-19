@@ -12,6 +12,7 @@ const Gallery = () => {
             alt="/"
           />
         </div>
+
         <div>
           <img
             className="w-full h-full object-cover "
@@ -19,6 +20,7 @@ const Gallery = () => {
             alt="/"
           />
         </div>
+
         <div>
           <img
             className="w-full h-full object-cover "
@@ -26,6 +28,7 @@ const Gallery = () => {
             alt="/"
           />
         </div>
+
         <div>
           <img
             className="w-full h-full object-cover "
@@ -33,6 +36,7 @@ const Gallery = () => {
             alt="/"
           />
         </div>
+
         <div>
           <img
             className="w-full h-full object-cover "
